@@ -1,4 +1,4 @@
-"""# Project Euler problem 17
+"""Project Euler problem 17
 # https://projecteuler.net/problem=17
 
 If the numbers 1 to 5 are written out in words: one, two, three, four, five,
